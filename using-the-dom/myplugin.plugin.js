@@ -1,7 +1,7 @@
 /**
  * @name Using The DOM
  * @author ArkhamCookie
- * @description The plugin that interacts with the DOM
+ * @description A plugin that interacts with the DOM
  * @version 0.0.1
  */
 
